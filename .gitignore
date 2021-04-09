@@ -154,3 +154,8 @@ Thumbs.db
 .vscode
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+
+
+# Ignore dynaconf secret files
+.secrets.*
