@@ -1,8 +1,10 @@
 {
-  products:[{
+  "products": [
+    {
 
-    id:1
-    name:"dummy"
-  }]
+      "id":1
+      "name":"dummy"
+    }
+  ]
 
 }
